@@ -23,9 +23,9 @@ La Covid-19 ha supuesto una crisis a nivel mundial, pero intentemos darle la vue
 - Ver cómo medidas como el teletrabajo, ayudan a mejorar la calidad del aire
 ## 3. FUENTES DE DATOS
 - Ministerio para la Transición Ecológica y el Reto Demográfico.
-Datos sobre los elementos a estudiar, por día, durante el período de confinamient y desescalada hasta finales de 2020 https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/atmosfera- y-calidad-del-aire/calidad-del-aire/evaluacion-datos/datos/Default.aspx
+Datos sobre los elementos a estudiar, por día, durante el período de confinamient y desescalada hasta finales de 2020 https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/atmosfera-y-calidad-del-aire/calidad-del-aire/evaluacion-datos/datos/Default.aspx
 Datos sobre emisiones por sectores
-https://www.miteco.gob.es/es/calidad-y-evaluacion- ambiental/temas/sistema-espanol-de-inventario-sei-/Inventario-GEI.aspx
+https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/sistema-espanol-de-inventario-sei-/Inventario-GEI.aspx
 - AENA
 Datos sobre la evolución del tráfico aéreo https://www.aena.es/es/estadisticas/inicio.html
 - KAGGLE
