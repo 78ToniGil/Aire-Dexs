@@ -1,0 +1,59 @@
+<tconfig>
+  <Extension>100</Extension>
+  <EXTGUID>f71c4e77-d009-40ea-abb7-2a9cf7ce028b</EXTGUID>
+  <GCMSENDERID />
+  <AccountName>Toni Gil</AccountName>
+  <outboundCID>865662232</outboundCID>
+  <AuthID>100-HilltechDigital</AuthID>
+  <AuthPass>eHNFYuys3HvRVwPL</AuthPass>
+  <VMAILPIN></VMAILPIN>
+  <RefreshToken></RefreshToken>
+  <PBXLocalAddr />
+  <PBXPublicAddr>call01.datium.es</PBXPublicAddr>
+  <PBXSipPort>5060</PBXSipPort>
+  <UseStun />
+  <StunServer>call01.datium.es</StunServer>
+  <StunServerPort>5060</StunServerPort>
+  <StunServer1>call01.datium.es</StunServer1>
+  <StunServerPort1>3478</StunServerPort1>
+  <StunServer2>call02.datium.es</StunServer2>
+  <StunServerPort2>3478</StunServerPort2>
+  <Codecs>
+    <Codec>PCMU</Codec>
+    <Codec>PCMA</Codec>
+    <Codec>G722</Codec>
+    <Codec>G729</Codec>
+    <Codec>Opus</Codec>
+  </Codecs>
+  <ExtCodecs>
+    <Codec>PCMU</Codec>
+    <Codec>PCMA</Codec>
+    <Codec>G729</Codec>
+    <Codec>G722</Codec>
+    <Codec>Opus</Codec>
+  </ExtCodecs>
+  <Voicemail></Voicemail>
+  <SIPTransport>0</SIPTransport>
+  <RTPTransport>0</RTPTransport>
+  <DtmfRFC2833>1</DtmfRFC2833>
+  <DtmfInband>0</DtmfInband>
+  <DtmfSipinfo>0</DtmfSipinfo>
+  <DtmfPayload>101</DtmfPayload>
+  <RegistrationTime />
+  <UseTunnel>1</UseTunnel>
+  <TunnelPort>5090</TunnelPort>
+  <TunnelPass>R80p9TwQ7B</TunnelPass>
+  <UseProxy />
+  <ProxyAddr />
+  <ProvLink />
+  <ProvLinkExternal></ProvLinkExternal>
+  <MyPhoneServerLocalAddr />
+  <MyPhoneServerPublicAddr />
+  <MyPhoneServerLocalSSLAddr />
+  <MyPhoneServerPublicSSLAddr></MyPhoneServerPublicSSLAddr>
+  <UseCTI>false</UseCTI>
+  <ReprovisionOnStartup>1</ReprovisionOnStartup>
+  <StartUpScreen>0</StartUpScreen>
+  <CryptoVersion>0</CryptoVersion>
+  <ConfigVersion>2</ConfigVersion>
+</tconfig>
